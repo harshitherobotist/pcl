@@ -1,0 +1,3 @@
+/home/harshit/catkin_ws/src/sahayak_bot/object_recognition/src/statistical_remover/build/CMakeFiles/rebuild_cache.dir
+/home/harshit/catkin_ws/src/sahayak_bot/object_recognition/src/statistical_remover/build/CMakeFiles/statistical_removal.dir
+/home/harshit/catkin_ws/src/sahayak_bot/object_recognition/src/statistical_remover/build/CMakeFiles/edit_cache.dir
