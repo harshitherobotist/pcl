@@ -1,0 +1,3 @@
+/home/harshit/catkin_ws/src/sahayak_bot/object_recognition/src/alignment_prerejective/build/CMakeFiles/rebuild_cache.dir
+/home/harshit/catkin_ws/src/sahayak_bot/object_recognition/src/alignment_prerejective/build/CMakeFiles/alignment_prerejective.dir
+/home/harshit/catkin_ws/src/sahayak_bot/object_recognition/src/alignment_prerejective/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/harshit/catkin_ws/src/sahayak_bot/object_recognition/src/passthrough/build/CMakeFiles/rebuild_cache.dir
+/home/harshit/catkin_ws/src/sahayak_bot/object_recognition/src/passthrough/build/CMakeFiles/passthrough.dir
+/home/harshit/catkin_ws/src/sahayak_bot/object_recognition/src/passthrough/build/CMakeFiles/edit_cache.dir
